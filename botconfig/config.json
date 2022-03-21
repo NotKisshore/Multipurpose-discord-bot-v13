@@ -1,0 +1,43 @@
+{
+   "token": "sfjnor4u5ihiowufnaoweufhweruiewdi",
+   "prefix": "//",
+   "ownerIDS": [
+      "950613304991182928",
+      "950613304991182928",
+      "950613304991182928",
+      "950613304991182928",
+      "950613304991182928",
+      "950613304991182928"
+   ],
+   "memer_api": "JoizT7Oss2t",
+   "status": {
+      "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members",
+      "text2": "by: discord.gg/ByrUwS7rKp",
+      "type": "WATCHING",
+      "url": "https://twitch.tv/NotKisshore"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node03.lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "498f461b962443cfaf9539c610e2ea81",
+      "clientID": "e6f84fbec2b44a77bf35a20c5ffa54b8"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
